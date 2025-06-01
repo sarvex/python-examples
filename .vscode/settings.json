@@ -5,5 +5,16 @@
     "python.testing.pytestEnabled": true,
     // "python.testing.unittestEnabled": false,
     "python.testing.cwd": "${workspaceFolder}/tests",
-    "python.defaultInterpreterPath": "${workspaceFolder}/2025/typescript/lokalise/.venv/bin/python"
+    "python.defaultInterpreterPath": "${workspaceFolder}/2025/typescript/lokalise/.venv/bin/python",
+    "workbench.colorCustomizations": {
+        "sash.hoverBorder": "#40892b",
+        "statusBar.background": "#2e621f",
+        "statusBar.border": "#2e621f",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#40892b",
+        "statusBarItem.remoteBackground": "#2e621f",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#40892b"
+    },
+    "peacock.color": "#2e621f"
 }
